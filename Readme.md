@@ -1,4 +1,1 @@
----
-### 修改源码，生成符合自己的通用代码
-
----
+# mybatis-generator-core
